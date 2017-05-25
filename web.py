@@ -1,3 +1,6 @@
+#!/usr/bin/python
+#coding:utf-8
+
 from flask import Flask, request
 from flask import jsonify
 import random
